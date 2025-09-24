@@ -2,7 +2,7 @@
 
 [![upkie](https://img.shields.io/badge/upkie-8.0.0-bbaacc)](https://github.com/upkie/upkie/tree/v8.0.0)
 
-Make an Upkie to stand upright by closed-loop model predictive control.
+Make an [Upkie](https://github.com/upkie/upkie) wheeled biped stand upright by closed-loop model predictive control. This agent works with version 8.0.0 of the robot software.
 
 ## Installation
 
