@@ -1,4 +1,4 @@
-# MPC balancer
+# MPC balancer for Upkie wheeled bipeds
 
 [![upkie](https://img.shields.io/badge/upkie-8.0.0-bbaacc)](https://github.com/upkie/upkie/tree/v8.0.0)
 
